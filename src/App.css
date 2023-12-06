@@ -1,0 +1,14 @@
+.App {
+background-color: #e4f4fc;
+width: 100%;
+}
+  body::-webkit-scrollbar {
+    width: 0px;
+  } 
+  body::-webkit-scrollbar-thumb {
+    background-color:transparent;
+  }
+  
+ 
+  
+
